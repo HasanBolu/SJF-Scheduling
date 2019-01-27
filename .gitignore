@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/ShortestJobFirst/v15/Server/sqlite3
+/ShortestJobFirst.sln
+/ShortestJobFirst/bin/Debug/netcoreapp2.0
+/ShortestJobFirst/obj
